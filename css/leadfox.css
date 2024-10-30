@@ -1,0 +1,20 @@
+.leadfox-plugin
+{
+	max-width: 500px;
+	margin: 20px 0;
+}
+
+.leadfox-plugin label { font-weight: bold; }
+.leadfox-plugin input[type="text"] { width: 100%; }
+.leadfox-plugin select { width: 50%; }
+
+.leadfox-plugin input,
+.leadfox-plugin select,
+.leadfox-plugin button
+{
+	margin-bottom: 20px;
+}
+
+.leadfox-plugin button {
+	width: 180px;
+}
